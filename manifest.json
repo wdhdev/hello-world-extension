@@ -1,0 +1,7 @@
+{
+    "manifest_version": 3,
+    "name": "Hello World",
+    "description": "A hello world chrome extension.",
+    "version": "1.0.0",
+    "author": "william@williamharrison.dev"
+}
