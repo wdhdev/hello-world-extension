@@ -1,2 +1,2 @@
-# hello-world-extension
+# Hello World
 A hello world Chrome extension.
